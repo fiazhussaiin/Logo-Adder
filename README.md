@@ -1,0 +1,1 @@
+MarkMaker is a dynamic application designed for enhancing custom logos, text. It provides a user-friendly interface and powerful tools to add, manage, and share logo and text on images, making it ideal for professionals, marketers, and creative individuals who need to create customized visuals quickly and efficiently.
